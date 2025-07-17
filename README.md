@@ -132,7 +132,7 @@ OlÃ¡, tudo bem? Me chamo Felipe Dias Carvalho, tenho 21 anos, sou formado em AnÃ
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipedc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipedc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
 </p>

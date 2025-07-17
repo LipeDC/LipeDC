@@ -2,8 +2,7 @@
 
 **`Desenvolvedor`**
 
- Olá, tudo bem?
- Me chamo Felipe Dias Carvalho, tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando pós-graduação em Desenvolvimento Full Stack. Tenho conhecimentos em Java, Angular, Spring, Go e SQL, adquiridos por meio de projetos acadêmicos e pessoais.
+Olá, tudo bem? Me chamo Felipe Dias Carvalho, tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Desenvolvimento Full Stack. Possuo conhecimentos em Java, Angular, Spring, Go e SQL, adquiridos por meio de projetos acadêmicos e pessoais.
 
 <p align="left">
     </a> 
